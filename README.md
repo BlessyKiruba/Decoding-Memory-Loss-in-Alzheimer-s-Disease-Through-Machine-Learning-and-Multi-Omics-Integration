@@ -33,9 +33,7 @@ For reproducible results:
 
 - Use the same dataset versions and preprocessing procedures described in the associated study.
 - Record the R and Python versions and package dependencies.
-- Keep track of model parameters, random seeds, and dataset partitions where applicable.
-- Ensure that training and testing procedures prevent information leakage between datasets or samples.
-- Verify input file paths and sample labels before running the scripts.
+- Keep track of model parameters and dataset partitions where applicable.
 
 ## Citation
 
