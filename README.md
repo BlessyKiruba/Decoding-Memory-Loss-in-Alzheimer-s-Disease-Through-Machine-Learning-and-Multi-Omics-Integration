@@ -16,10 +16,7 @@ The repository includes scripts for differential expression analysis, cellular-l
 | `RF_ADvsCTL_model.py` | Python script implementing a Random Forest classifier to distinguish AD from control samples. |
 | `XGB_ADvsCTL.py` | Python script implementing an XGBoost classifier for AD-versus-control classification. |
 | `MLP_ADvsCTL_model.py` | Python script implementing a multilayer perceptron classifier for AD-versus-control classification. |
-| `ml_common.py` | Shared Python functions and utilities used by the machine-learning scripts. |
 | `memory genes.xlsx` | Spreadsheet containing the memory-annotated candidate gene list used in the study. |
-| `LICENSE` | Specifies the terms under which the repository's contents may be used, modified, and distributed. |
-| `README.md` | Documentation describing the repository and its contents. |
 
 ## Data Availability
 
